@@ -1,4 +1,4 @@
-# monero mining
+# monero-mine
 
 It is a docker image for monero mining.
 
